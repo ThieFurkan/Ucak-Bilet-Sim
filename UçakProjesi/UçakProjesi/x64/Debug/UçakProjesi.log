@@ -1,0 +1,4 @@
+﻿  UçakProjesi.cpp
+C:\Users\ali_o\OneDrive\Masaüstü\c++\UçakProjesi\UçakProjesi\UçakProjesi.cpp(57,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ali_o\OneDrive\Masaüstü\c++\UçakProjesi\UçakProjesi\UçakProjesi.cpp(59,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  UçakProjesi.vcxproj -> C:\Users\ali_o\OneDrive\Masaüstü\c++\UçakProjesi\x64\Debug\UçakProjesi.exe
